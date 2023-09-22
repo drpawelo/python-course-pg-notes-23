@@ -3,7 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-1_2_Lab/*
+
+# exlude these:
+# 1_2_Lab/*
 
 # C extensions
 *.so
